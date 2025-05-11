@@ -1,11 +1,11 @@
 # Airbnb Milan Analysis
 
-This project analyzes Airbnb listings in Milan using Python. It covers data cleaning, exploratory data analysis, and visualization using `pandas`, `matplotlib`, and `seaborn`.
+This project analyzes Airbnb listings in Milan using Python. It covers data cleaning, exploratory data analysis, and visualization using 'pandas', 'matplotlib', and 'seaborn'.
 
 ## Dataset
 - Source: [Inside Airbnb - Milan](http://insideairbnb.com/get-the-data.html)
 - Data as of: **March 13, 2025**
-- File used: `listings.csv`
+- File used: `Airbnb Milan listings.csv`  
 
 ## Analysis Highlights
 - Room type distribution (Entire home/apt dominates)
