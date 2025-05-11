@@ -18,8 +18,8 @@ This project analyzes Airbnb listings in Milan using Python. It covers data clea
 
 ## Key Insights
 
-- The vast majority of listings (87%) are entire apartments, indicating a market focus on full-home rentals rather than shared spaces.
-- Most listings are priced under €200 per night, with a strong concentration in the €50–€100 range, suggesting affordability for mid-range travelers.
+- The vast majority of listings (88%) are entire apartments, indicating a market focus on full-home rentals rather than shared spaces.
+- Most listings are priced under €200 per night, with a strong concentration in the €50–€150 range, suggesting affordability for mid-range travelers.
 - Listings with more availability tend to have a higher number of reviews, which may indicate consistent service and popularity.
 - The most active neighborhoods include Corso Buenos Aires–Porta Venezia, Duomo, Central Station, China Town and Navigli, known for tourism and nightlife.
 - Hotel rooms and shared rooms make up a tiny fraction of listings, showing that Airbnb is not competing much with traditional hotels in Milan.
