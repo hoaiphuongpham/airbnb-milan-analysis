@@ -16,14 +16,14 @@ This project analyzes Airbnb listings in Milan using Python. It covers data clea
 - Top neighbourhoods by listing count
 - Availability Distribution
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Google Colab
 - pandas, matplotlib, seaborn
 
-## 📎 Files
-- `airbnb_milan_analysis.ipynb`: Main notebook
-- `listings.csv`: Raw data
+## Files
+- `Data_Analysis_AirbnbMilan2025.ipynb`: Main notebook
+- `Airbnb Milan listings.csv`: Raw data
 
-## 👤 Author
+## Author
 Phuong (Jolie) Pham
